@@ -4,7 +4,7 @@
 
 <h3>Active Directory Deployed in the Cloud (Microsoft Azure)<h3/>
   
-<p>In the last tutorial I installed Active directory within Azure Virtual Machines. This tutorial I will go through configuration of Active Directory.<p/>
+<h5>In the last tutorial I installed Active directory within Azure Virtual Machines. This tutorial I will go through configuration of Active Directory.<h5/>
 
 - Create an Admin User account, Organizational Unit, and New Employee to the Domain Admins Security Group. 
 - Join Client-1 to the DC
