@@ -47,7 +47,7 @@ Dc should restart after and you will have successfully joined the Client to DC.
 (Now all Domain Users can access the Client)
   
 <h2> Create a Bunch of Users</h2>
-<b> <https://github.com/AsiaPonder001/BunchofUsers/blob/main/README.md?plain=1> CLICK HERE</a> to copy and paste script </b>
+<b> [https://github.com/AsiaPonder001/BunchofUsers/blob/main/README.md?plain=1] (CLICK HERE)</a> to copy and paste script </b>
 <a> On Dc > Open POWERSHELL as an Admin > Click Create a New File > Paste the script > Click Run the Script </a>
 
 <h2> Sign in the Client as one of the new users from the bunch we just created</h2>
