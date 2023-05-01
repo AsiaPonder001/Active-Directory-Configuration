@@ -39,3 +39,4 @@
 <a>Log off of the DC and back into with new credentials</a>
   
 <h2> Join Client to the Domain Controller</h2>
+<a> In the DC go to System > Click Rename this Pc advanced > Click Change > Click Domain > Type: mydomain.com > Click Ok </a>
