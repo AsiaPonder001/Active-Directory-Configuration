@@ -3,7 +3,12 @@
 </p>
 
 <h1>Active Directory Deployed in the Cloud (Microsoft Azure)</h1>
-This tutorial outlines the implementation of Active Directory within Azure Virtual Machines.<br />
+In the last tutorial I installed Active directory within Azure Virtual Machines. This tutorial I will go through configuration of Active Directory.
+- Create an Admin User account, Organizational Unit, and New Employee to the Domain Admins Security Group. 
+- Join Client-1 to the DC
+- Set up Remote Desktop for users/non-administrative users.
+- Create a Bunch of Users
+<br />
 
 <h2>Environments and Technologies Used</h2>
 
