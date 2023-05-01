@@ -34,9 +34,15 @@
  <a>Right click on _ADMINS > Click New > Click User</a>
  
 <h2>Assign New "User" Admin to Admins Group </h2>
- <p>Right click on new uesr name > Click ADD > Type: Domain > Click Check Names > Click Domain Admins > Click Ok > Click Apply > Click ok</p>
+ <p>Right click on new user name > Click ADD > Type: Domain > Click Check Names > Click Domain Admins > Click Ok > Click Apply > Click ok</p>
   
 <a>Log off of the DC and back into with new credentials</a>
   
 <h2> Join Client to the Domain Controller</h2>
 <a> In the DC go to System > Click Rename this Pc advanced > Click Change > Click Domain > Type: mydomain.com > Click Ok </a>
+Dc should restart after and you will have successfully joined the Client to DC.
+  
+<h2>Allow all Domain Users to Log into the Client</h2>
+<a> Open system Properties > Click Remote Desktop > Click Select Users that can access this pc > Click ADD > Type: Domain Users > Click Check Names > Click Ok </a>
+<P> Now all Domain Users can access the Client</P>
+  
