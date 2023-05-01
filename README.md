@@ -33,3 +33,9 @@
  <h2>Create an Admin User Account</h2>
  <a>Right click on _ADMINS > Click New > Click User</a>
  
+<h2>Assign New "User" Admin to Admins Group </h2>
+ <p>Right click on new uesr name > Click ADD > Type: Domain > Click Check Names > Click Domain Admins > Click Ok > Click Apply > Click ok</p>
+  
+<a>Log off of the DC and back into with new credentials</a>
+  
+<h2> Join Client to the Domain Controller</h2>
