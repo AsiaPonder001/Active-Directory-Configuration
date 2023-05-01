@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/iKPzneQ.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Active Directory Deployed in the Cloud (Microsoft Azure)<h1/>
+<h3>Active Directory Deployed in the Cloud (Microsoft Azure)<h3/>
   
 <p>In the last tutorial I installed Active directory within Azure Virtual Machines. This tutorial I will go through configuration of Active Directory.<p/>
 
