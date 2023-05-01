@@ -25,6 +25,7 @@
 - Windows 10 (21H2)
   
  <h2> Create an Admin User account and Organizational Units </h2>
+  
   -_EMPLOYEES (*NOTE: to make sure to put underscore and all words are capital for powershell script)
   -_ADMINS
 
