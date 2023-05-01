@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/iKPzneQ.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h5>Active Directory Deployed in the Cloud (Microsoft Azure)<h5/>
+<h2>Active Directory Deployed in the Cloud (Microsoft Azure)<h2/>
 <p>In the last tutorial I installed Active directory within Azure Virtual Machines. This tutorial I will go through configuration of Active Directory.<p/>
 
 - Create an Admin User account, Organizational Unit, and New Employee to the Domain Admins Security Group. 
