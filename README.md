@@ -48,7 +48,8 @@ Dc should restart after and you will have successfully joined the Client to DC.
   
 <h2>Create a Bunch of Users</h2>
 To create the users we will use a script, <a href="https://github.com/AsiaPonder001/BunchofUsers/blob/main/README.md?plain=1)"> CLICK HERE</a>
-<a> Click RAW to copy the script</a>
+<img src= "https://i.imgur.com/h7fem0x.png"/>
+<> Click RAW to copy the script</a>
 <a> On Dc > Open POWERSHELL as an Admin > Click Create a New File > Paste the script > Click Run the Script </a>
 
 <h2> Sign in the Client as one of the new users from the bunch we just created</h2>
