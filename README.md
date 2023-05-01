@@ -42,7 +42,7 @@
 <a> In the DC go to System > Click Rename this Pc advanced > Click Change > Click Domain > Type: mydomain.com > Click Ok </a>
 Dc should restart after and you will have successfully joined the Client to DC.
   
-<h2>Allow all Domain Users to Log into the Client</h2>
+<h2>Set up Remote Desktop for users/non-administrative users</h2>
 <a> Open system Properties > Click Remote Desktop > Click Select Users that can access this pc > Click ADD > Type: Domain Users > Click Check Names > Click Ok </a>
 <P> Now all Domain Users can access the Client</P>
   
