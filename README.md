@@ -33,7 +33,7 @@
  <h2>Create an Admin User Account</h2>
  <a>Right click on _ADMINS > Click New > Click User</a>
  
-<h2>Assign New "User" Admin to Admins Group </h2>
+<h2>Assign New "User" Admin to Admins Security Group </h2>
  <p>Right click on new user name > Click ADD > Type: Domain > Click Check Names > Click Domain Admins > Click Ok > Click Apply > Click ok</p>
   
 <a>Log off of the DC and back into with new credentials</a>
