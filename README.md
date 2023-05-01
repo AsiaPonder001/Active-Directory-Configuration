@@ -25,7 +25,7 @@
 - Windows 10 (21H2)
   
  <h2> Create an Admin User account and Organizational Units </h2>
- <a>Open Active Directory Users and Computers > Right click on mydomain.com > Click New > Click Organizational unit creat one for both: </a>
+ <p>Open Active Directory Users and Computers > Right click on mydomain.com > Click New > Click Organizational unit creat one for both: </p>
  
 - _EMPLOYEES(*NOTE: to make sure to put underscore and all words are capital for powershell script)
 - _ADMINS
