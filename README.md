@@ -49,7 +49,16 @@ Right Click on mydomain.com > Click to Refresh
  <img src="https://i.imgur.com/f0tESfY.png">
  
 <h2>Assign New "User" Admin to Admins Security Group </h2>
- <p>Right click on new user name > Click ADD > Type: Domain > Click Check Names > Click Domain Admins > Click Ok > Click Apply > Click ok</p>
+ 
+Right click on new user name
+
+<img src="https://i.imgur.com/17miYVt.png">
+  
+ Click ADD >
+ 
+ <img src="https://i.imgur.com/gekIQmD.png">
+ 
+ Type: Domain > Click Check Names > Click Domain Admins > Click Ok > Click Apply > Click ok</p>
   
 <a>Log off of the DC and back into with new credentials</a>
   
