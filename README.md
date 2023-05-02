@@ -32,6 +32,8 @@
 <img src="https://i.imgur.com/b5p8ppc.png">
 <img src="https://i.imgur.com/LSUMMZg.png">
 
+Right Click on mydomain.com > Click to Refresh
+
  <h2>Create an Admin User Account</h2>
  <a>Right click on _ADMINS > Click New > Click User</a>
  
