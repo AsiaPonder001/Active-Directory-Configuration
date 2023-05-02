@@ -10,7 +10,6 @@
 - Join Client-1 to the DC
 - Set up Remote Desktop for users/non-administrative users.
 - Create a Bunch of Users
-<br />
 
 <h2>Environments and Technologies Used</h2>
 
