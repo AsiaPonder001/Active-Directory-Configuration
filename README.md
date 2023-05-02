@@ -67,6 +67,8 @@ Right Click on mydomain.com > Click to Refresh
 <img src="https://i.imgur.com/8Aqu3Bt.png">
   
 <a>Log off of the DC and back into with new credentials</a>
+
+<img src="https://i.imgur.com/EjoJrke.png">
   
 <h2> Join Client to the Domain Controller</h2>
 <a> In the DC go to System > Click Rename this Pc advanced > Click Change > Click Domain > Type: mydomain.com > Click Ok </a>
