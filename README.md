@@ -50,7 +50,7 @@ Right Click on mydomain.com > Click to Refresh
  
 <h2>Assign New "User" Admin to Admins Security Group </h2>
  
-Right click on new user name
+Right click on new user name > Click on Properties
 
 <img src="https://i.imgur.com/17miYVt.png">
   
