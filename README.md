@@ -3,7 +3,6 @@
 </p>
 
 <h2>Active Directory Deployed in the Cloud (Microsoft Azure)</h2>
-<br/>
   
 <h2>In the last tutorial I installed Active directory within Azure Virtual Machines. This tutorial I will go through configuration of Active Directory.</h2>
 
