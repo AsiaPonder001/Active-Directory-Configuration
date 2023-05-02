@@ -50,11 +50,11 @@ Right Click on mydomain.com > Click to Refresh
  
 <h2>Assign New "User" Admin to Admins Security Group </h2>
  
-Right click on new user name > Click on Properties
+<b>Right click on new user name > Click on Properties</b>
 
 <img src="https://i.imgur.com/17miYVt.png">
   
- Click ADD >
+<b>Click Member of > Click ADD </b>
  
  <img src="https://i.imgur.com/gekIQmD.png">
  
