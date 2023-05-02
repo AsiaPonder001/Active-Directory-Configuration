@@ -29,6 +29,9 @@
 - _EMPLOYEES(*NOTE: to make sure to put underscore and all words are capital for powershell script)
 - _ADMINS
 
+<img src="https://i.imgur.com/b5p8ppc.png">
+<img src="https://i.imgur.com/LSUMMZg.png">
+
  <h2>Create an Admin User Account</h2>
  <a>Right click on _ADMINS > Click New > Click User</a>
  
