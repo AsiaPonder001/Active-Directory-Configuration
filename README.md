@@ -41,6 +41,10 @@ Right Click on mydomain.com > Click to Refresh
  
  <b> Fill in Information and Create a Password</b>
  
+ Uncheck: user must check password at next logon
+ 
+ and Check: Password never expires 
+ 
  <img src="https://i.imgur.com/Eq1OV2X.png">
  <img src="https://i.imgur.com/f0tESfY.png">
  
