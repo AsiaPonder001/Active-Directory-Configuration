@@ -37,6 +37,13 @@ Right Click on mydomain.com > Click to Refresh
  <h2>Create an Admin User Account</h2>
  <a>Right click on _ADMINS > Click New > Click User</a>
  
+ <img src="https://i.imgur.com/ndS71kC.png">
+ 
+ <b> Fill in Information and Create a Password</b>
+ 
+ <img src="https://i.imgur.com/Eq1OV2X.png">
+ <img src="https://i.imgur.com/f0tESfY.png">
+ 
 <h2>Assign New "User" Admin to Admins Security Group </h2>
  <p>Right click on new user name > Click ADD > Type: Domain > Click Check Names > Click Domain Admins > Click Ok > Click Apply > Click ok</p>
   
