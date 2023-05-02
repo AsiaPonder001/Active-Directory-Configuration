@@ -58,7 +58,11 @@ Right Click on mydomain.com > Click to Refresh
  
  <img src="https://i.imgur.com/gekIQmD.png">
  
- Type: Domain > Click Check Names > Click Domain Admins > Click Ok > Click Apply > Click ok</p>
+ Type: Domain > Click Check Names >
+ 
+ <img src="https://i.imgur.com/Ce2hG3b.png">
+ 
+ Click Domain Admins > Click Ok > Click Apply > Click ok</p>
   
 <a>Log off of the DC and back into with new credentials</a>
   
