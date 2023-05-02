@@ -43,7 +43,7 @@ Right Click on mydomain.com > Click to Refresh
  
  Uncheck: user must check password at next logon
  
- and Check: Password never expires 
+ Check: Password never expires 
  
  <img src="https://i.imgur.com/Eq1OV2X.png">
  <img src="https://i.imgur.com/f0tESfY.png">
