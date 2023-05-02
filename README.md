@@ -66,7 +66,7 @@ Right Click on mydomain.com > Click to Refresh
 
 <img src="https://i.imgur.com/8Aqu3Bt.png">
   
-<a>Log off of the DC and back into with new credentials</a>
+<b>Log off of the DC and back into with new credentials</b>
 
 <img src="https://i.imgur.com/EjoJrke.png">
   
