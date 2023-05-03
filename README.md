@@ -76,7 +76,7 @@ Right Click on mydomain.com > Click to Refresh
 
 <img src="https://i.imgur.com/uwmfiBJ.png">
 
-<b>Click Rename this Pc advanced </b>
+<b>Click Rename this PC (advanced) </b>
 
 <img src="https://i.imgur.com/Ifve5rg.png">
 
@@ -84,8 +84,12 @@ Right Click on mydomain.com > Click to Refresh
 
 <img src="https://i.imgur.com/vsBFyRS.png">
 
-Click Domain > Type: mydomain.com > Click Ok </b>
-Dc should restart after and you will have successfully joined the Client to DC.
+Click Domain > Type: mydomain.com > Click Ok > Enter username/password with permission to join the Domain </b>
+
+<img src="https://i.imgur.com/9ep1u1f.png">
+<img src="https://imgur.com/8uIlT7s.png">
+
+<p>The Client should restart after and you will have successfully joined the Client to DC.</p>
   
 <h2>Set up Remote Desktop for users/non-administrative users</h2>
 <a> Open system Properties > Click Remote Desktop > Click Select Users that can access this pc > Click ADD > Type: Domain Users > Click Check Names > Click Ok </a>
