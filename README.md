@@ -71,7 +71,20 @@ Right Click on mydomain.com > Click to Refresh
 <img src="https://i.imgur.com/EjoJrke.png">
   
 <h2> Join Client to the Domain Controller</h2>
-<a> In the Client VM go to System > Click Rename this Pc advanced > Click Change > Click Domain > Type: mydomain.com > Click Ok </a>
+
+<b> In the Client VM go to System </b>
+
+<img src="https://i.imgur.com/uwmfiBJ.png">
+
+<b>Click Rename this Pc advanced </b>
+
+<img src="https://i.imgur.com/Ifve5rg.png">
+
+<b>Click Change</b>
+
+<img src="https://i.imgur.com/vsBFyRS.png">
+
+Click Domain > Type: mydomain.com > Click Ok </b>
 Dc should restart after and you will have successfully joined the Client to DC.
   
 <h2>Set up Remote Desktop for users/non-administrative users</h2>
