@@ -84,9 +84,12 @@ Right Click on mydomain.com > Click to Refresh
 
 <img src="https://i.imgur.com/vsBFyRS.png">
 
-Click Domain > Type: mydomain.com > Click Ok > Enter username/password with permission to join the Domain </b>
+Click Domain > Type: mydomain.com > Click Ok > </b>
 
 <img src="https://i.imgur.com/9ep1u1f.png">
+
+<b>Enter username/password with permission to join the Domain</b>
+
 <img src="https://imgur.com/8uIlT7s.png">
 
 <p>The Client should restart after and you will have successfully joined the Client to DC.</p>
