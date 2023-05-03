@@ -84,7 +84,7 @@ Right Click on mydomain.com > Click to Refresh
 
 <img src="https://i.imgur.com/vsBFyRS.png">
 
-Click Domain > Type: mydomain.com > Click Ok > </b>
+<b>Click Domain > Type: mydomain.com > Click Ok </b>
 
 <img src="https://i.imgur.com/9ep1u1f.png">
 
