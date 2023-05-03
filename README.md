@@ -93,8 +93,11 @@ Right Click on mydomain.com > Click to Refresh
 <img src="https://imgur.com/8uIlT7s.png">
 
 <p>The Client should restart after and you will have successfully joined the Client to DC.</p>
+
+<img src="https://i.imgur.com/9ttb3Ne.png">
   
 <h2>Set up Remote Desktop for users/non-administrative users</h2>
+
 <a> Open system Properties > Click Remote Desktop > Click Select Users that can access this pc > Click ADD > Type: Domain Users > Click Check Names > Click Ok </a>
 (Now all Domain Users can access the Client)
   
