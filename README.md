@@ -41,7 +41,7 @@ Right Click on mydomain.com > Click to Refresh
  
  <b> Fill in Information and Create a Password</b>
  
- Uncheck: user must check password at next logon
+ Uncheck: user must change password at next logon
  
  Check: Password never expires 
  
