@@ -142,6 +142,12 @@ To create the users we will use a script, <a href="https://github.com/AsiaPonder
  
  <img src="https://i.imgur.com/i9uI6uP.png">
  <img src="https://i.imgur.com/U1OIYAT.png">
+ <img src="https://i.imgur.com/zkzyrcb.png">
 
 <h2> Sign in the Client as one of the new users from the bunch we just created</h2>
-Pick a name and sign in.
+
+<b>Pick a name and sign in</b>
+
+<img src="https://i.imgur.com/mnnqGLk.png">
+<img src="https://i.imgur.com/Lb9jc16.png">
+<img src="https://i.imgur.com/ZDswhzj.png">
