@@ -150,7 +150,7 @@ To create the users we will use a script, <a href="https://github.com/AsiaPonder
 
 <a> Username: mydomain.com\tal.nepa </a>
 
-<a>All employees we created have the same password in the script, Password1</a>
+<a>All employees we created have the same password in the script,</a> <b>Password1<b>
 
 <img src="https://i.imgur.com/mnnqGLk.png">
 <img src="https://i.imgur.com/ZDswhzj.png">
