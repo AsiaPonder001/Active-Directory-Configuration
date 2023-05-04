@@ -98,7 +98,7 @@ Right Click on mydomain.com > Click to Refresh
   
 <h2>Set up Remote Desktop for users/non-administrative users</h2>
 
-<b> Open system Properties </b>
+<b> On the Client VM Open System Properties </b>
 
 <img src="https://i.imgur.com/HEm5Bhw.png">
 
