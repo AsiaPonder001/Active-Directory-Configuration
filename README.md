@@ -98,7 +98,31 @@ Right Click on mydomain.com > Click to Refresh
   
 <h2>Set up Remote Desktop for users/non-administrative users</h2>
 
-<a> Open system Properties > Click Remote Desktop > Click Select Users that can access this pc > Click ADD > Type: Domain Users > Click Check Names > Click Ok </a>
+<b> Open system Properties </b>
+
+<img src="https://i.imgur.com/HEm5Bhw.png">
+
+<b>Click Remote Desktop</b> 
+
+<img src="https://i.imgur.com/IVMCLcH.png">
+
+<b>Click Select Users that can access this pc </b>
+
+<img src="https://i.imgur.com/VQXVqRo.png">
+
+<b>Click ADD </b>
+
+<img src="https://i.imgur.com/EkAlqh5.png">
+
+<b>Type: Domain Users > Click Check Names > Click Ok </b>
+
+<img src="https://i.imgur.com/hlL9J03.png">
+
+<img src="https://i.imgur.com/RVgNa2n.png">
+
+<img src="https://i.imgur.com/H2zVMkO.png">
+
+
 (Now all Domain Users can access the Client)
   
 <h2>Create a Bunch of Users</h2>
