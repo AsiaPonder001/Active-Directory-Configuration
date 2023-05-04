@@ -122,14 +122,26 @@ Right Click on mydomain.com > Click to Refresh
 
 <img src="https://i.imgur.com/H2zVMkO.png">
 
-
 (Now all Domain Users can access the Client)
   
 <h2>Create a Bunch of Users</h2>
+
 To create the users we will use a script, <a href="https://github.com/AsiaPonder001/BunchofUsers/blob/main/README.md?plain=1)"> CLICK HERE</a>
-<img src= "https://i.imgur.com/h7fem0x.png"/>
-<a>Click RAW to copy the script</a>
-<a> On Dc > Open POWERSHELL as an Admin > Click Create a New File > Paste the script > Click Run the Script </a>
+
+<b>Click RAW to copy the script</b>
+
+<img src="https://i.imgur.com/cb5VISv.png">
+<img src="https://i.imgur.com/pPNHbne.png">
+
+<b> On the DC > Open POWERSHELL ISE as an Admin </b>
+  
+<img src="https://i.imgur.com/5AxzFUs.png">
+<img src="https://i.imgur.com/fOTP9y3.png">
+  
+<b>Click Create a New File > Paste the script > Click Run the Script </b>
+ 
+ <img src="https://i.imgur.com/i9uI6uP.png">
+ <img src="https://i.imgur.com/U1OIYAT.png">
 
 <h2> Sign in the Client as one of the new users from the bunch we just created</h2>
 Pick a name and sign in.
