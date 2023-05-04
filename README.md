@@ -26,7 +26,7 @@
  <h2> Create an Admin User account and Organizational Units </h2>
  <p>Open Active Directory Users and Computers > Right click on mydomain.com > Click New > Click Organizational unit and create one for both: </p>
  
-- _EMPLOYEES(*NOTE: to make sure to put underscore and all words are in capital for powershell script)
+- _EMPLOYEES(NOTE: to make sure to put underscore and all words are in capital for powershell script)
 - _ADMINS
 
 <img src="https://i.imgur.com/b5p8ppc.png">
