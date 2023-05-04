@@ -88,7 +88,7 @@ Right Click on mydomain.com > Click to Refresh
 
 <img src="https://i.imgur.com/9ep1u1f.png">
 
-<b>Enter username/password with permission to join the Domain</b>
+<b>Enter username/password of the Client to join the Domain</b>
 
 <img src="https://imgur.com/8uIlT7s.png">
 
