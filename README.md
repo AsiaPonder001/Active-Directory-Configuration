@@ -92,7 +92,7 @@ Right Click on mydomain.com > Click to Refresh
 
 <img src="https://imgur.com/8uIlT7s.png">
 
-<b>The Client will/should restart. You successfully joined the Client to the Domain Controller</b>
+<b>The Client VM will restart. You successfully joined the Client to the Domain Controller</b>
 
 <img src="https://i.imgur.com/9ttb3Ne.png">
   
