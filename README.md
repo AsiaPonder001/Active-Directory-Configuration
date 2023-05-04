@@ -149,5 +149,5 @@ To create the users we will use a script, <a href="https://github.com/AsiaPonder
 <b>Pick a name and sign in</b>
 
 <img src="https://i.imgur.com/mnnqGLk.png">
-<img src="https://i.imgur.com/Lb9jc16.png">
+<img src="https://i.imgur.com/ .png">
 <img src="https://i.imgur.com/ZDswhzj.png">
