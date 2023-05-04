@@ -92,7 +92,7 @@ Right Click on mydomain.com > Click to Refresh
 
 <img src="https://imgur.com/8uIlT7s.png">
 
-<p>The Client should restart after and you will have successfully joined the Client to DC.</p>
+<p>The Client will/should restart. You successfully joined the Client to the Domain Controller.</p>
 
 <img src="https://i.imgur.com/9ttb3Ne.png">
   
